@@ -1,0 +1,131 @@
+<HTML>
+	<HEAD>
+		<TITLE>Desenvolvimento do Site</TITLE>
+	</HEAD>
+          
+<BODY>
+	<P><FONT COLOR = "#0080FF" SIZE = "5" FACE ="VERDANA"><I>ALFA MANUTENÇÃO E INSTALAÇÃO ELÉTRICA</I></FONT></P>
+	
+	<BODY>
+		<!--Não há necessidade de deixar linhas em branco entre as tags. Isso foi feito apenas para facilitar o entendimento.-->
+		<IMG SRC= "C:\figuras\alfa.jpg" aling="TOP">
+		<IMG SRC= "C:\figuras\aguia.jpg" aling="TOP">
+       <P><FONT COLOR = "BLACK" SIZE="4" FACE="ARIAL">Manutenção e Instalação elétrica</P></FONT>
+		<P><FONT FACE = "Calibri">Ao analisar e identificar a necessidade de aumentar a capacidade técnica de diversos procedimentos e recursos empregados tanto nos setores produtivos quanto em obras urbanas, foi dado o ínicio a um processo de desenvolvimento que acarretou na origem de tecnologias e meios inovadores.
+
+As redes elétricas, assim como os elementos utilizados para o seu controle e fornecimento, foram aprimoradas conforme decorreu esse avanço, o que permitiu o fortalecimento da infraestrutura de instalações industriais e de edificações residenciais.
+
+A fim de perpetuar a qualidade das mesmas, a Alfa Instalações Elétrica é a empresa de manutenção elétrica que presta uma excelente assessoria, assegurando o funcionamento correto desses sistemas.</P>
+         <P><FONT FACE = "Arial" size="4">Por que é importante contratar os serviços de uma empresa de manutenção elétrica?</P></FONT>
+<P>Como sabemos, um sistema elétrico se trata da união de elementos dos quais são destinados à captação de energia elétrica vinda de uma concessionária com o intuito de exercer o abastecimento elétrico em estruturas residenciais, comerciais e corporativas.
+
+De uma forma ampla, o sistema elétrico é de suma importância para que uma empresa possa desempenhar as suas funções com efetividade, do mesmo modo que é indispensável para promover a comodidade aos indivíduos presentes.
+
+Portanto, os serviços realizados por uma empresa de manutenção elétrica, sejam esses de caráter preventivo ou corretivo, possuem a finalidade de evitar ou corrigir possíveis irregularidades ou pequenas avarias das quais possam acarretar em uma pane elétrica.
+
+A Alfa Instalações Elétricas se responsabiliza por efetuar uma análise sobre a infraestrutura de seu prédio ou instalação, com o propósito de identificar as possíveis falhas e ou o desgaste de componentes juntamente aos seus cabeamentos, certificando o pleno funcionamento.
+
+Com tudo isso, uma empresa de manutenção elétrica tal como a Alfa Instalações é a resposta para garantir a segurança em conjunto à excelência de seu empreendimento.</P>
+       <P><FONT FACE ="ARIAL" SIZE="4" COLOR="BLACK">Por que a Alfa Instalações é a empresa de manutenção elétrica que mais se destaca?</P></FONT>
+<P>Crescendo de maneira contínua e responsável, a Alfa Instalações é a empresa de manutenção elétrica que aplica a sua expertise aliada aos melhores e mais tecnológicos recursos, visando realizar um serviço que supere as expectativas de seus clientes.
+
+Priorizando um atendimento personalizado, a Alfa Instalações é a empresa de manutenção elétrica que conta com profissionais qualificados e bem guarnecidos, com a intenção de prestar serviços que supram as necessidades de instalações prediais, comerciais, residenciais e industriais.
+
+Em suma, a Alfa Instalações é a empresa de manutenção elétrica que oferece a solução para simplificar as suas tarefas, promovendo o bem-estar e a rentabilidade que você tanto procura.</P>
+ 
+		    <A href = "#Desc"><FONT COLOR = "3366FF">Descrição dos serviços</FONT></A><BR>
+      		<A href = "#Instalações"><FONT COLOR = "3366FF">Instalações elétricas diversas</FONT></A><BR>
+		    <A href = "#SPDA"><FONT COLOR = "3366FF">SPDA</FONT></A><BR>
+		    <A href = "#AUTOCAD"><FONT COLOR = "3366FF">AUTOCAD</FONT></A><BR>
+		    <A href = "#portifólio"><FONT COLOR = "3366FF">Portifólio</FONT></A><BR><!--
+		<A href = "#Pre"><FONT COLOR = "663300">Pré-requisitos</FONT></A><BR>
+		<A href = "#Pre"><FONT COLOR = "663300">Pré-requisitos</FONT></A><BR>
+		<A href = "#Pre"><FONT COLOR = "663300">Pré-requisitos</FONT></A><BR>
+		<A href = "#Pre"><FONT COLOR = "663300">Pré-requisitos</FONT></A><BR>
+		<A href = "#Pre"><FONT COLOR = "663300">Pré-requisitos</FONT></A><BR>
+      		<BR>-->
+     		</FONT>
+
+    		<!--<P><FONT FACE = "Calibri" SIZE = "4" COLOR = "Red"> <B>HTML – Básico</B></FONT></P><BR>
+		<A name = "Categoria">
+		
+
+		<A name = "CH">
+		<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "Red"> <B>Carga horária</B></FONT></P>
+		<P><FONT FACE = "Calibri"> 11 horas</FONT></P><BR>-->
+
+		<A name = "Desc">
+		<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "3366FF"> <B>Descrição dos serviços</B></FONT></P>
+		<P><FONT FACE = "Calibri"><OL><LI>Soluções a Industrias, Empresas, Escritórios e  Condomínios.
+
+<LI>Centros de Medição de Energia.
+
+<LI>Substituição de Prumadas de Energia Elétrica.
+
+<LI>Projetos em AutoCAD e  Laudos Elétricos.
+
+<LI>Cabine Primaria de Energia, Parametrização de relés.
+
+<LI>Painéis e Quadros Elétricos.
+
+<LI>Quadro de Automatização de Bombas.
+
+<LI>Soluções em Iluminação.
+
+<LI>Manutenção e Instalação de ar condicionado.
+
+<LI>Projetos A.V.C.B. (P.T.S.)
+
+<LI>Projetos Executivos Elétricos, Automação e Eletromecânico.<BR>
+
+<BR><I>Solicite uma visita técnica.</I></OL></LI></FONT></P><BR>
+		
+		<A name = "Instalações">
+		<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "3366FF"> <B>Instalações elétricas diversas</B></FONT></P>
+		<P><FONT FACE = "Calibri"></P>
+		
+			<LI>Projeto – Iluminação, Circuitos de força, Automação e Comandos 
+			<LI>Montagem de painéis elétrico 
+			<LI>Manutenção de Cabine Primaria
+			<LI>Inspeções Termograficas
+			<LI>Manutenção Elétrica Predial
+			<LI>Termografia Cabine Primaria
+			<LI>Manutenção Preventiva
+			<LI>Projeto Elétrico S.P.D.A.
+			<LI>Aterramento<BR><BR>
+				<IMG SRC= "C:\figuras\fechamento1.jpg" aling="TOP"><ALING="CENTER"><IMG SRC= "C:\figuras\quadro5.jpg" aling="RIGHT">
+		</LI></FONT>
+		<BR>
+		<A name = "SPDA">
+		<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "3366FF"> Sistema de Proteção Contra Descargas Atmosférica (S.P.D.A.) </FONT></P>
+		</FONT>
+		<P><FONT FACE="Calibri" SIZE="3">
+			Com a intensificação da necessidade de aprimorar a infraestrutura de construções destinadas a servirem como base para as atividades humanas e produtivas, foi iniciado o desenvolvimento tanto de tecnologias inovadoras quanto de recursos altamente eficientes.
+
+Como consequência desse avanço, foram originados os sistemas contra as descargas atmosféricas dos quais se tornaram comumente utilizados para conceder a segurança às mais variadas construções.
+
+A Alfa Instalações se destaca pois elabora e oferece as instalações de sistema contra descargas atmosféricas com o intuito de assegurar que essas operem com qualidade desejada.</FONT></P><BR><BR>
+<IMG SRC= "C:\figuras\spda01.jpg" aling="TOP"><IMG SRC= "C:\figuras\spda02.jpg" aling="TOP">
+<A name = "AUTOCAD">
+		<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "3366FF"> Desenvolvimento de projetos em Cad e Sketch UP </FONT></P>
+			<P>Como consequência da necessidade de solidificar a infraestrutura de obras comerciais e residenciais, mas também, de construções fabris, foi iniciado um processo de desenvolvimento do qual viabilizou recursos e tecnologias inovadoras.
+       
+Dentre os principais meios concebidos, temos o desenvolvimento de projetos em Cad e Scketch Up, se destacam pelo fato de suas diversas funções os tornarem indispensáveis para uma melhor visualização pelo cliente. Logo, restarão poucas duvidas em relação ao projeto e instalação.
+Sendo uma empresa especializada, a Alfa Instalação se responsabiliza por planejar e oferecer os projetos elétricos adequados e com a qualidade almejada pelo cliente.<BR><BR>
+       <IMG SRC= "C:\figuras\sketch01.jpg" aling="TOP"><IMG SRC= "C:\figuras\sketch02.jpg" aling="TOP"><BR><BR>
+       <IMG SRC= "C:\figuras\cad01.png" aling="TOP"><IMG SRC= "C:\figuras\cad02.jpg" aling="TOP">
+
+	<A name = "portifólio">
+		<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "3366FF">Portifólio Obras</FONT></P>
+		</FONT>
+		
+		<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "3366FF"> <B>Mais infromações</B></FONT></P>
+		<P><FONT FACE = "Calibri">Tel: 11 947926462 11 959367104 11 981104659<IMG SRC= "C:\figuras\whatsapp-logo-11.png"><BR> E-mail: alfa@alfainstalacoes.com.br </BR></FONT></P>
+<P><FONT FACE = "Calibri" SIZE = "3" COLOR = "3366FF"> <B>ALFA INSTALAÇÕES E MANUTENÇÃO</B></FONT></P>
+		<P><FONT FACE = "Calibri"> Tecnologia a serviço da humanidade</FONT></P><BR>
+	</BODY>
+</HTML>
+
+	</FORM>
+</BODY>
+</HTML>
